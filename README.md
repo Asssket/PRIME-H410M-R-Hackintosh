@@ -10,9 +10,10 @@ ASUS PRIME H410M-R Hackintosh opencore config.
 * [x] Booted
 ![Screenshot](./Readme_sources/Screenshot.png)
 * [x] Internet Connection
+* [x] Map Usb(But I not sure that is the right map.)
 
 ### **Need to do:**
-- ####  Map Usb
+- ####  ~~Map Usb~~
 - ####  Make all SSDT by manual method
 - ####  Fix sound
 - #### Anything else...
