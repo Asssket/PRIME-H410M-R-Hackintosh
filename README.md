@@ -5,7 +5,7 @@ ASUS PRIME H410M-R Hackintosh opencore config.
 * #### **CPU:** Intel Core I3 10100
 * #### **Motherboard:** Asus Prime H410M-R
 * #### **GPU:** Intel UHD Graphics 630
-* #### **Opencore:** 0.8.1
+* #### **Opencore:** 0.8.2
  
   
 ### **Work:**
